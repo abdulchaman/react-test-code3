@@ -4,3 +4,10 @@
 .details{
     margin-top:60px;
 }
+.menu-img img{
+    width:80px;
+    height:80px;
+}
+.menu_item{
+    margin-bottom:30px;
+}
